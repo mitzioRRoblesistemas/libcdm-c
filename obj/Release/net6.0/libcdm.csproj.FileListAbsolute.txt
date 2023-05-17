@@ -1,0 +1,12 @@
+C:\Users\Luis\source\repos\libcdm\libcdm\bin\Release\net6.0\libcdm.deps.json
+C:\Users\Luis\source\repos\libcdm\libcdm\bin\Release\net6.0\libcdm.dll
+C:\Users\Luis\source\repos\libcdm\libcdm\bin\Release\net6.0\libcdm.pdb
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\libcdm.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\libcdm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\libcdm.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\libcdm.AssemblyInfo.cs
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\libcdm.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\libcdm.dll
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\refint\libcdm.dll
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\libcdm.pdb
+C:\Users\Luis\source\repos\libcdm\libcdm\obj\Release\net6.0\ref\libcdm.dll
