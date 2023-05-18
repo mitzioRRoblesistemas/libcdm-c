@@ -33,6 +33,6 @@ public class CDMIngresoDesdeCdm
 
             }
         }
-        return;
+        await _next(context);
     }
 }

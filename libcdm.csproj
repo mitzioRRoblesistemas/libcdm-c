@@ -10,7 +10,7 @@
     <Description>SDK de Ciudadania Digital Misionera</Description>
     <PackageProjectUrl>https://desarrollador.cdmisiones.net.ar</PackageProjectUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <RepositoryUrl>https://github.com/mitzioRRoblesistemas/libcdm-c</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>

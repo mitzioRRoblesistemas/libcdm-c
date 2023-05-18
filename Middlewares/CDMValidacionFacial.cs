@@ -42,7 +42,8 @@ public class CDMValidacionFacial
                                 Requestcdm!.status = rta.status;
                                 Requestcdm!.msg = rta.msg;
                                 Requestcdm!.data!.Add("validacionFacial", rta);
-                                await _next(context);
+                                Requestcdm!.data!["validacionFacial"].data.Add("solicitud", solicitud);
+                            await _next(context);
                                 return;
                             }
                         }

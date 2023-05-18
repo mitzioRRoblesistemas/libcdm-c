@@ -42,6 +42,7 @@ public class CDMValidacionOTP
                                 Requestcdm!.status = rta.status;
                                 Requestcdm!.msg = rta.msg;
                                 Requestcdm!.data!.Add("validacionOTP", rta);
+                                Requestcdm!.data!["validacionOTP"].data.Add("solicitud", solicitud);
                                 await _next(context);
                                 return;
                             }
